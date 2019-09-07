@@ -1,0 +1,8 @@
+#! /bin/bash
+
+echo "this is 1st function in toyata project"
+<<<<<<< 128c513b268ed58e75b7c186423809b016955a93
+echo "project-1 in toyata"
+=======
+echo "project-2 toyota"
+>>>>>>> project-2 toyota
